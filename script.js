@@ -15,6 +15,7 @@ Menor que 18,5    : Abaixo do peso
 Maior que 40        : Obesidade Grau III (grave)
 */
 
+
 function calcularIMC() {
     const nome = document.getElementById('nome').value;
     const idade = parseInt(document.getElementById('idade').value);

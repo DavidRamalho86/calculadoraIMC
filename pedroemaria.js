@@ -10,6 +10,7 @@ Utilizando a fórmula IMC = peso (kg) / (altura (m))^2, desenvolva um programa q
 Após o cálculo, classifique Maria e Pedro de acordo com as faixas de IMC e forneça uma breve recomendação com base na classificação de saúde.
 */
 
+
 //Definindo as informações de Maria
 const pesoMaria = 55; //em kg
 const alturaMaria = 1.65; // em metros
