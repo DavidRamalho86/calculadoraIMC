@@ -1,0 +1,38 @@
+body {
+    background-image: url('https://americancorhospital.com.br/wp-content/uploads/2020/10/2772899-1024x683.jpg');
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: left;
+    margin: 0;
+    padding: 0;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1 {
+    color: #0041ced2;
+}
+
+form {
+    max-width: 100px;
+    margin: 0 auto;
+}
+
+label, input {
+    display: block;
+    margin-bottom: 10px;
+}
+
+button {
+    background-color: #0074D9;
+    color: #FFF;
+    border: none;
+    padding: 10px 10px;
+    cursor: pointer;
+}
+
+#resultado {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: rgb(168, 8, 8);
+    text-align: start;
+    text-decoration:solid ;
+}
