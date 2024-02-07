@@ -11,7 +11,7 @@ Após o cálculo, classifique Maria e Pedro de acordo com as faixas de IMC e for
 */
 
 
-//Definindo as informações de Maria
+//Definindo as informações de Maria.
 const pesoMaria = 55; //em kg
 const alturaMaria = 1.65; // em metros
 const idadeMaria = 25;// em anos

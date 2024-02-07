@@ -12,7 +12,7 @@ Menor que 18,5    : Abaixo do peso
 25,0 - 29,9             : Sobrepeso
 30,0 - 34,9             : Obesidade Grau I (leve)
 35,0 - 39,9             : Obesidade Grau II (moderada)
-Maior que 40        : Obesidade Grau III (grave)
+Maior que 40        : Obesidade Grau III (grave).
 */
 
 
